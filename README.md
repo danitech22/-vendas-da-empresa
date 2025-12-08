@@ -1,4 +1,4 @@
-# Cálculo de Bônus de Vendas em Python
+# Cálculo de Bônus de Vendas de uma empresa
 
 Este projeto é um programa simples em Python que calcula o bônus de um vendedor com base nas suas vendas individuais e no desempenho geral da empresa.  
 
